@@ -1,0 +1,63 @@
+create database MONTERREY;
+use MONTERREY;
+
+create table sucursal(
+NumSucursal int not null,
+CodigoBanco smallint not null,
+Direccion varchar (30),
+Estado varchar (20) not null,
+primary key (NumSucursal,CodigoBanco));
+select * from sucursal;
+
+
+create table cuenta(
+NumCta bigint not null primary key,
+Tipo char (10) not null,
+Saldo decimal (8),
+NumSucursal int not null,
+CodigoBanco smallint not null);
+
+
+alter table cuenta add
+foreign key (NumSucursal,CodigoBanco) references sucursal(NumSucursal,CodigoBanco);
+select * from cuenta;
+
+create table prestamo(
+NumPrest bigint not null primary key,
+Tipo char (10),
+Importe decimal (8),
+NumSucursal int not null,
+CodigoBanco smallint not null);
+
+alter table prestamo add
+foreign key (NumSucursal,CodigoBanco) references sucursal(NumSucursal,CodigoBanco);
+select * from prestamo;
+
+create table cliente(
+NSS bigint not null primary key,
+Nombre varchar (20) not null,
+Apellidos varchar (30) not null,
+Direccion varchar (40),
+Telefono char (11));
+select * from cliente;
+
+create table manejocuenta(
+NumCta bigint not null,
+NSS bigint not null,
+primary key (NumCta,NSS));
+
+alter table manejocuenta add
+foreign key (NumCta) references cuenta (NumCta);
+
+alter table manejocuenta add
+foreign key (NSS) references cliente (NSS);
+select * from manejocuenta;
+
+create table manejoprestamo(
+NumPrest bigint not null,
+NSS bigint not null,
+primary key (NumPrest,NSS));
+select * from manejoprestamo;
+
+select * from sucursal
+where estado ='NUEVO LEON';

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0bdf886-a0f4-45c3-9334-93eef38be172" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1iVtnKijVfIMXZbC9oDKaLsWFK7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\personal" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\personal" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0bdf886-a0f4-45c3-9334-93eef38be172" name="Default Changelist" comment="" />
+      <created>1602004753256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602004753256</updated>
+      <workItem from="1602004754442" duration="22705000" />
+      <workItem from="1604339530596" duration="23624000" />
+      <workItem from="1605658795803" duration="5054000" />
+      <workItem from="1605727738204" duration="1369000" />
+      <workItem from="1606781632636" duration="1566000" />
+      <workItem from="1606783215587" duration="924000" />
+      <workItem from="1606784156837" duration="8661000" />
+      <workItem from="1606792853119" duration="5633000" />
+      <workItem from="1606852956049" duration="17114000" />
+      <workItem from="1606875928717" duration="3519000" />
+      <workItem from="1606879505450" duration="11000" />
+      <workItem from="1606879600846" duration="1070000" />
+      <workItem from="1606928592585" duration="6778000" />
+      <workItem from="1611343166377" duration="1034000" />
+      <workItem from="1613585225692" duration="763000" />
+      <workItem from="1614714270194" duration="1690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="138" width="414" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1606857286092">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="593" y="138" width="414" height="574" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1606857286092" />
+    <state x="274" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606781670136">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="274" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1606781670136" />
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606788209737">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1606788209737" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1611343605206">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="493" y="156" key="FileChooserDialogImpl/0.0.1360.728/-1280.-31.1280.760@0.0.1360.728" timestamp="1606875940134" />
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1606864674573" />
+    <state x="1996" y="221" key="FileChooserDialogImpl/0.0.1600.860/1600.137.1093.574@1600.137.1093.574" timestamp="1605727909623" />
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860/1600.137.1366.728@0.0.1600.860" timestamp="1611343605206" />
+    <state x="627" y="152" key="NewPhpClassDialog" timestamp="1605659800088">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="627" y="152" key="NewPhpClassDialog/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1605659800088" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1606860024499">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1606860024499" />
+    <state x="1600" y="137" width="1107" height="661" key="dock-window-1" timestamp="1606854194848">
+      <screen x="1600" y="137" width="1093" height="574" />
+    </state>
+    <state x="1600" y="137" width="1107" height="661" key="dock-window-1/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1606854194848" />
+    <state x="233" y="91" width="1107" height="661" key="dock-window-2" timestamp="1606860509158">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="233" y="91" width="1107" height="661" key="dock-window-2/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1606860509158" />
+    <state x="6" y="-10" width="1107" height="661" maximized="true" key="dock-window-3" timestamp="1606860587865">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="6" y="-10" width="1107" height="661" maximized="true" key="dock-window-3/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1606860587865" />
+    <state x="1600" y="137" width="1107" height="661" key="dock-window-3/0.0.1600.860/1600.137.1093.574@1600.137.1093.574" timestamp="1606784139925" />
+    <state x="318" y="-26" width="1107" height="661" maximized="true" key="dock-window-4" timestamp="1606862885937">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="318" y="-26" width="1107" height="661" maximized="true" key="dock-window-4/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1606862885937" />
+    <state x="252" y="-24" width="1107" height="657" maximized="true" key="dock-window-5" timestamp="1606869066492">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="252" y="-24" width="1107" height="657" maximized="true" key="dock-window-5/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1606869066492" />
+    <state x="102" y="0" width="879" height="563" key="dock-window-5/0.0.1600.860/1600.137.1093.574@1600.137.1093.574" timestamp="1606792912340" />
+    <state x="1301" y="118" width="1107" height="487" maximized="true" key="dock-window-6" timestamp="1604361074603">
+      <screen x="1600" y="137" width="1093" height="574" />
+    </state>
+    <state x="1301" y="118" width="1107" height="487" maximized="true" key="dock-window-6/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1604361074603" />
+    <state x="1600" y="137" width="1107" height="661" key="dock-window-7" timestamp="1604363669549">
+      <screen x="1600" y="137" width="1093" height="574" />
+    </state>
+    <state x="1600" y="137" width="1107" height="661" key="dock-window-7/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1604363669549" />
+    <state x="1693" y="230" width="907" height="389" key="dock-window-9" timestamp="1606781961792">
+      <screen x="1600" y="137" width="1093" height="574" />
+    </state>
+    <state x="1693" y="230" width="907" height="389" key="dock-window-9/0.0.1600.860/1600.137.1093.574@0.0.1600.860" timestamp="1606781961792" />
+  </component>
+</project>
